@@ -1,0 +1,30 @@
+.difficulty {
+    min-width: 65px;
+    margin-right: 10px;
+}
+
+.label.difficulty {
+    padding-top: 0.0em;
+    color: #000000;
+    font-size: 20px;
+}
+
+.title {
+    font-size: 1.1em;
+}
+
+.diff-easy {
+    background-color: #04fa04;
+}
+
+.diff-medium {
+    background-color: #f5be09;
+}
+
+.diff-hard {
+    background-color: #d81212;
+}
+
+.diff-super {
+    background-color: #e50dec;
+}
